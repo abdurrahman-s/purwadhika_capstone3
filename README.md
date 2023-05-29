@@ -1,7 +1,7 @@
 # California Housing Price Prediction - Machine Learning Project
 ## Section 1: Introduction
 
-- Problem Statement: As a property company, our mission is to strike a balance between maximizing profit and maintaining high customer satisfaction for both buyers and sellers. To that end, we aim to build a predictive model that computes the optimal house price based on various factors such as location, house age, and more. This not only ensures profitable returns but also enhances customer satisfaction—a win-win scenario for all stakeholders involved.
+- Problem Statement: For this project, we will position ourself as a property company. As a property company, our goal is to maximize profit while maintaining high customer satisfaction for both buyers and sellers. One approach is by developing a model that predicts an optimal house price given certain factors such as location, house age, etc. This ensures profitable returns and customer satisfaction, a win-win scenario.
 
 - Goals: The objective of this project is to develop a machine learning model that predicts the median_house_value, our target variable, using various features provided in the dataset.
 
